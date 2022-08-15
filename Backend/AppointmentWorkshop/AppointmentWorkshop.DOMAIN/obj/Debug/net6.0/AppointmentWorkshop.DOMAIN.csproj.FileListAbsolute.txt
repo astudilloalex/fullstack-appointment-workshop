@@ -1,0 +1,12 @@
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\bin\Debug\net6.0\AppointmentWorkshop.DOMAIN.deps.json
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\bin\Debug\net6.0\AppointmentWorkshop.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\bin\Debug\net6.0\AppointmentWorkshop.DOMAIN.pdb
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\obj\Debug\net6.0\AppointmentWorkshop.DOMAIN.csproj.AssemblyReference.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\obj\Debug\net6.0\AppointmentWorkshop.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\obj\Debug\net6.0\AppointmentWorkshop.DOMAIN.AssemblyInfoInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\obj\Debug\net6.0\AppointmentWorkshop.DOMAIN.AssemblyInfo.cs
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\obj\Debug\net6.0\AppointmentWorkshop.DOMAIN.csproj.CoreCompileInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\obj\Debug\net6.0\AppointmentWorkshop.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\obj\Debug\net6.0\refint\AppointmentWorkshop.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\obj\Debug\net6.0\AppointmentWorkshop.DOMAIN.pdb
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.DOMAIN\obj\Debug\net6.0\ref\AppointmentWorkshop.DOMAIN.dll

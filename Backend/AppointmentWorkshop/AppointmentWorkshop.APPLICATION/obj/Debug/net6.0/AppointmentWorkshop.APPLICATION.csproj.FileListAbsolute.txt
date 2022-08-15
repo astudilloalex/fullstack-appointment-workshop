@@ -1,0 +1,17 @@
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\bin\Debug\net6.0\AppointmentWorkshop.APPLICATION.deps.json
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\bin\Debug\net6.0\AppointmentWorkshop.APPLICATION.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\bin\Debug\net6.0\AppointmentWorkshop.APPLICATION.pdb
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\bin\Debug\net6.0\AppointmentWorkshop.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\bin\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\bin\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.pdb
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\bin\Debug\net6.0\AppointmentWorkshop.DOMAIN.pdb
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\AppointmentWorkshop.APPLICATION.csproj.AssemblyReference.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\AppointmentWorkshop.APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\AppointmentWorkshop.APPLICATION.AssemblyInfoInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\AppointmentWorkshop.APPLICATION.AssemblyInfo.cs
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\AppointmentWorkshop.APPLICATION.csproj.CoreCompileInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\AppointmentWorkshop.APPLICATION.csproj.CopyComplete
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\AppointmentWorkshop.APPLICATION.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\refint\AppointmentWorkshop.APPLICATION.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\AppointmentWorkshop.APPLICATION.pdb
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.APPLICATION\obj\Debug\net6.0\ref\AppointmentWorkshop.APPLICATION.dll

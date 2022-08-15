@@ -1,0 +1,18 @@
+const Map<String, String> appEsEc = {
+  'back': 'Atrás',
+  'carDealer': 'Concesionario de automóviles',
+  'checkYourAppointment': 'Verifica tu cita',
+  'city': 'Ciudad',
+  'confirm': 'Confirmar',
+  'dataOfYourVehicle': 'Datos de tu vehículo',
+  'diligenceYourData': 'Diligencia tus datos',
+  'next': 'Siguiente',
+  'pleaseSelectYourCity': 'Por favor selecciona tu ciudad',
+  'previous': 'Anterior',
+  'scheduleYourServiceAppointment': 'Agenda tu cita de servicio',
+  'selectDateAndTime': 'Selecciona fecha y hora',
+  'selectYourWorkshop': 'Selecciona tu taller',
+  'step': 'Paso',
+  'welcome': 'Bienvenido',
+  'workshopServices': 'Servicios taller',
+};

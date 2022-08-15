@@ -1,0 +1,17 @@
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\bin\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.deps.json
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\bin\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.runtimeconfig.json
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\bin\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\bin\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.pdb
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\bin\Debug\net6.0\AppointmentWorkshop.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\bin\Debug\net6.0\AppointmentWorkshop.DOMAIN.pdb
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.csproj.AssemblyReference.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.AssemblyInfoInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.AssemblyInfo.cs
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.csproj.CopyComplete
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\refint\AppointmentWorkshop.INFRASTRUCTURE.dll
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.pdb
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\AppointmentWorkshop.INFRASTRUCTURE.genruntimeconfig.cache
+D:\Users\Alex\Documents\FullstackProjects\AppointmentWorkshop\Backend\AppointmentWorkshop\AppointmentWorkshop.INFRASTRUCTURE\obj\Debug\net6.0\ref\AppointmentWorkshop.INFRASTRUCTURE.dll
